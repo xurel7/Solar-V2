@@ -33,6 +33,6 @@
         {
             "name": "Remove Block Effect",
             "description": "Eliminates the pushback you receive when blocked."
-        },
+        }
     ]
 }
