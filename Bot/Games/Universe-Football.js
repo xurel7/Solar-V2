@@ -1,4 +1,4 @@
-const info = {
+module.exports = {
     status: "online",
     warnings: "none",
     features: [
@@ -12,5 +12,3 @@ const info = {
         }
     ]
 };
-
-module.exports = info;
