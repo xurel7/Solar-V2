@@ -1,6 +1,16 @@
 const info = {
     status: "online",
-    features: ["test1", "test2"]
+    warnings: "none",
+    features: [
+        {
+            name: "feature1",
+            description: "description1"
+        },
+        {
+            name: "feature2",
+            description: "description2"
+        }
+    ]
 };
 
 module.exports = info;
